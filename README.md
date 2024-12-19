@@ -11,7 +11,6 @@
 
 ### 🌟 **Technologies That I Have Worked With** 🌟
 
----
 
 ### 🛠️ **Tools**
 ![Power BI](https://img.shields.io/badge/Power%20BI-darkyellow?style=for-the-badge&logo=power-bi)
@@ -20,7 +19,6 @@
 ![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoft-excel)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-orange?style=for-the-badge&logo=microsoft-powerpoint)
 
----
 
 ### 🌐 **Web Languages**
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
@@ -36,7 +34,6 @@
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)
 
----
 
 ### 🗄️ **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
