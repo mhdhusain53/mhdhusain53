@@ -27,7 +27,6 @@
 ![ReactJS](https://img.shields.io/badge/ReactJS-blueviolet?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-lightblue?style=for-the-badge&logo=tailwind-css)
 
----
 
 ### 💻 **Programming Languages**
 ![JAVA](https://img.shields.io/badge/JAVA-red?style=for-the-badge&logo=java&logoColor=white)
