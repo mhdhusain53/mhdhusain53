@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi there, I'm Mohammed Husain
 
-<!--
-**mhdhusain53/mhdhusain53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working in Acuitas360 as a Product Developer.
+- 🌱 I’m currently learning Azure.
+- 😄 Pronouns: He/Him
+- 🧩 My favorite debugging tool? A good night's sleep and a fresh pair of eyes!
 
-Here are some ideas to get you started:
+##Technologies that I have worked with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Web Languages
+![HTML](https://img.shields.io/badge/HTML-orange)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![ReactJS](https://img.shields.io/badge/ReactJS-blueviolet)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-lightblue)
+
+## Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-darkyellow)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-purple)
+![Power Automate](https://img.shields.io/badge/Power%20Automate-blue)
+![Excel](https://img.shields.io/badge/Excel-green)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-orange)
+
+## Programming Languages
+![JAVA](https://img.shields.io/badge/JAVA-red)
+![C++](https://img.shields.io/badge/C++-blue)
+![Python](https://img.shields.io/badge/Python-green)
+
+## Database
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+![Firebase](https://img.shields.io/badge/Firebase-orange)
+
+
